@@ -1,2 +1,2 @@
 i#!/bin/bash
-cchmod -R ug0+x
+cchmod -R ugo+x .
